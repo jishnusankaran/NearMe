@@ -29,16 +29,20 @@ Execute the programs and publish them.
 ```
 <html >
 <head>
-    
-    <title>jishnu</title>
+    <title>Place Nearby Me</title>
 </head>
-<body>
-    
+<body align="center">
+  <h1 align="center">
+    <font color="purple">Natrampalli</font>
+</h1>
+<h2 align="center">
+    <font color="#40E0D0">JISHNUPRIYAN S (212223240061)</font>
+  </h2>  
 <img src="native (2).png" usemap="#image-map">
 
 <map name="image-map">
     <area target="" alt="Natrampalli Government Hosptial" title="Natrampalli Government Hosptial" href="hosptital.html" coords="948,790,1155,854" shape="rect">
-    <area target="" alt="Spot On Sujith lodge Annexe" title="Spot On Sujith lodge Annexe" href="spot .html" coords="1311,623,1487,674" shape="rect">
+    <area target="" alt="Spot On Sujith lodge Annexe" title="Spot On Sujith lodge Annexe" href="spot.html" coords="1311,623,1487,674" shape="rect">
     <area target="" alt="Raji Garden Matric Higher School" title="Raji Garden Matric Higher School" href="school.html" coords="1509,723,1714,777" shape="rect">
     <area target="" alt="Bharat petroleum  " title="Bharat petroleum  " href="petroleum.html" coords="996,416,1182,467" shape="rect">
     <area target="" alt="Sivan kovil" title="Sivan kovil" href="kovil.html" coords="1444,149,1588,210" shape="rect">
@@ -151,7 +155,7 @@ Execute the programs and publish them.
 ## OUTPUT
 
 ## jishnu.html
-![alt text](<native (2).png>)
+![alt text](jishnu.png)
 
 ## Hosptial.html
 ![alt text](hosptial.png)
